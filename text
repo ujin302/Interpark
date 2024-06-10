@@ -1,0 +1,5 @@
+1. 관리자 권한으로 cmd 실행 
+2. 폴더 이동 
+    cd C:\Program Files\Google\Chrome\Application
+3. 디버깅 모드로 크롬 실행 
+    chrome.exe --remote-debugging-port=9222 --user-data-dir="C:/ChromeTEMP"
